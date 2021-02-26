@@ -1,0 +1,2 @@
+[lfs]
+	fetchexclude = "whotracksme/data/assets/2017-*/**/*,whotracksme/data/assets/2018-*/**/*,whotracksme/data/assets/2019-*/**/*,whotracksme/data/assets/2020-*/**/*"
